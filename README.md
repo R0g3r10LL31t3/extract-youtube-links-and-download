@@ -11,4 +11,4 @@ This script will retrieve said URL, parse it for links to YouTube clips (ordinar
 
 Credits
 =======
-The shell scripts rely heavily on ![alt text](http://rg3.github.io/youtube-dl/ "youtube-dl")
+The shell scripts rely heavily on [alt text](http://rg3.github.io/youtube-dl/ "youtube-dl")
